@@ -3,7 +3,7 @@ Guitar Effect Recognition using network RNN and CNN to comparision which network
 ![Guitar_Effect](https://github.com/user-attachments/assets/2e91002d-fa07-4446-95f2-bdb51cc659b3)
 
 Concept of project:
-< br / > The main purpose of this project is to compare two different convolution and recurrent networks to analyze which one is effective in recognizing guitar effects and their estimation parameters. 
+<br/> The main purpose of this project is to compare two different convolution and recurrent networks to analyze which one is effective in recognizing guitar effects and their estimation parameters. 
 
 Documentation:
 <br/> https://www.aes.org/e-lib/browse.cfm?elib=21124
